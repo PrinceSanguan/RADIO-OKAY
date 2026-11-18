@@ -21,9 +21,9 @@
 
 | Where will you listen? | Get it here |
 |---|---|
-| 📱 **Android phone or tablet** | [**Radio Okay 1.1.0**](https://github.com/PrinceSanguan/Radio-Okay/releases/latest): tap `RadioOkay-1.1.0.apk` under **Assets** |
+| 📱 **Android phone or tablet** | [**Radio Okay 1.1.1**](https://github.com/PrinceSanguan/Radio-Okay/releases/latest): tap `RadioOkay-1.1.1.apk` under **Assets** |
 
-> **Tagalog:** Buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `RadioOkay-1.1.0.apk`, tapos **Install**. Kapag sinabi ng phone na bawal, i-on ang **"Allow from this source"** at i-tap ulit ang Install. Libre ito, walang bayad, walang account.
+> **Tagalog:** Buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `RadioOkay-1.1.1.apk`, tapos **Install**. Kapag sinabi ng phone na bawal, i-on ang **"Allow from this source"** at i-tap ulit ang Install. Libre ito, walang bayad, walang account.
 
 Already installed? You don't need to come back here. Radio Okay tells you when a new version is out and updates itself inside the app.
 
