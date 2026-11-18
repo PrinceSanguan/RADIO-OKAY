@@ -21,16 +21,17 @@
 
 | Where will you listen? | Get it here |
 |---|---|
-| 📱 **Android phone or tablet** | [**Radio Okay 1.0.0**](https://github.com/PrinceSanguan/Radio-Okay/releases/latest): tap `RadioOkay-1.0.0.apk` under **Assets** |
+| 📱 **Android phone or tablet** | [**Radio Okay 1.1.0**](https://github.com/PrinceSanguan/Radio-Okay/releases/latest): tap `RadioOkay-1.1.0.apk` under **Assets** |
 
-> **Tagalog:** Buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `RadioOkay-1.0.0.apk`, tapos **Install**. Kapag sinabi ng phone na bawal, i-on ang **"Allow from this source"** at i-tap ulit ang Install. Libre ito, walang bayad, walang account.
+> **Tagalog:** Buksan ang link sa **Chrome** (hindi sa loob ng Facebook o Messenger), i-tap ang `RadioOkay-1.1.0.apk`, tapos **Install**. Kapag sinabi ng phone na bawal, i-on ang **"Allow from this source"** at i-tap ulit ang Install. Libre ito, walang bayad, walang account.
 
 Already installed? You don't need to come back here. Radio Okay tells you when a new version is out and updates itself inside the app.
 
 ## Why Radio Okay
 
 - **As easy as a real radio.** Slide the dial, tap ◀◀ ▶▶ to jump to the next station, or press P1 to P6. If you've used a radio, you already know how to use it.
-- **The Philippines, ready to play.** About 700 Philippine stations, sorted into FM, AM and Online, with a filter for Metro Manila, Cebu, Davao, Baguio and more.
+- **The Philippines, ready to play.** Over 700 Philippine stations, more than 550 of them on their real FM/AM frequency, with a filter for Metro Manila, Cebu, Davao, Tacloban, Bohol and more. Favourites like Love Radio 90.7 and Barangay LS 97.1 come first on the dial. Stations listeners ask for get added, even ones the big directories miss.
+- **Find it fast.** Type a name, a frequency (`93.5`), a call sign (`DYTM`) or a town (`Ormoc`) and it's there.
 - **And the rest of the world.** Thousands of stations from every country, by genre or by name.
 - **Keep the show.** Record with one tap, or schedule a recording for later, even with the app closed. Recordings play without internet.
 - **Yours only.** No account, no ads, no tracking. Everything stays on your phone.
@@ -44,12 +45,13 @@ Already installed? You don't need to come back here. Radio Okay tells you when a
 | | |
 |---|---|
 | 📻 **FM & AM dial** | A big LED frequency, a sliding dial (digital or analog look), seek ◀◀ ▶▶, **Auto Scan** that finds the live stations, presets **P1–P6** for FM and AM, and a keypad: type `983` for 98.3. |
+| 🔎 **Search** | One tap from the home screen. Search by name, frequency, call sign or town, mix words (`love tacloban`, `bohol fm`), or tap a place chip. |
 | 🌏 **Browse** | Philippines by FM, AM, Online and All; the world by country, genre or name. Popular, trending, **For you** picks and **Recently played**. |
 | 🎵 **Now playing** | The song title and artist when the station sends them, also on the lock screen. Signal bars, stream quality, and a backup stream when one goes down. |
 | ⭐ **Favorites & library** | Favorites that work offline, categories, your own names and logos, notes, history, and four layouts (list, compact, grid, card). Import and export your stations (JSON, M3U, PLS). |
 | ⏺️ **Recording** | One-tap REC, scheduled recordings, a time limit, rename, share, **Save to Music**, and automatic clean-up when space runs low. |
 | 🎚️ **Sound** | A 10-band equalizer with 10 presets (Rock, Pop, Jazz, Bass Boost, Vocal and more), bass, treble, balance, mono, stereo widen, volume leveling, a visualizer, and your choice of speaker, headphones or Bluetooth. |
-| ⏰ **Alarm & sleep timer** | Wake up to your station (it falls back to an alarm tone if the stream fails), and a sleep timer that fades out. |
+| ⏰ **Alarm & sleep timer** | Wake up to your station (it falls back to an alarm tone if the stream fails). The **sleep timer** sits on the home screen: pick 5 min to 2 hours or your own minutes, watch the countdown, add +15 min, and it fades out. |
 | 📊 **Listening stats** | Hours per station, a listening calendar and your top genres. |
 | 📱 **On your phone** | Notification and lock-screen controls, headset and Bluetooth buttons, a home-screen widget, a Quick Settings tile and Android Auto. |
 | 🎨 **Your look** | Five colours (Green, Ocean blue, Purple night, Rose, Soft dark), dark, AMOLED black or light, and your own background picture. |

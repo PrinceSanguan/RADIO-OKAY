@@ -1,9 +1,11 @@
-# This repository is the public page for Radio Okay: the README and its images, nothing else.
+# This repository is the public page for Radio Okay: the README and its images, plus the
+# requested-stations list (stations/extra-stations.json) that the app downloads. Nothing else.
 # The app's source, the signing key and the APKs stay on this PC and are never pushed.
 # APKs go up as GitHub *Releases* (see release/HOW-TO-UPDATE.md), not into the repo.
 /*
 !/.gitignore
 !/README.md
+!/stations/
 !/docs/
 /docs/*
 !/docs/readme/
