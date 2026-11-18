@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-11-18",
   "note": "Stations listeners asked for that the public station directory doesn't have ('stations'), frequencies for directory stations whose names have none ('fixes', so they show on the dial), and the most popular stations ('popular', first = strongest: they win their frequency, lead searches, fill new users' presets). Bump 'version' on every change. Check before pushing: python tools/check_streams.py",
   "popular": [
@@ -1764,14 +1764,6 @@
       "province": "Isabela"
     },
     {
-      "name": "Love Radio Santiago (M3U)",
-      "band": "FM",
-      "freq": 94.5,
-      "callsign": "DWIP",
-      "town": "Santiago",
-      "province": "Isabela"
-    },
-    {
       "name": "Love Radio Tacloban",
       "band": "FM",
       "freq": 91.1,
@@ -3042,14 +3034,6 @@
       "callsign": "DXAT",
       "town": "Valencia",
       "province": "Bukidnon"
-    },
-    {
-      "name": "Yes FM Zamboanga",
-      "band": "FM",
-      "freq": 102.7,
-      "callsign": "DXHT",
-      "town": "Zamboanga City",
-      "province": "Zamboanga del Sur"
     },
     {
       "name": "Yes The Best Cagayan de Oro",
